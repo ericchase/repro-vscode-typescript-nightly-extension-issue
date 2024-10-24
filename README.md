@@ -1,3 +1,5 @@
+https://github.com/microsoft/vscode-typescript-next/issues/134
+
 # repro-vscode-typescript-nightly-extension-issue
 
 1. install any version of `ms-vscode.vscode-typescript-next` equal to or later than `v5.7.20240911`
